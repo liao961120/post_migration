@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2018/12/13/hugo_rss.html
 date: '2018-12-13'
 description: Customizing Hugo RSS Template for R-bloggers
 tags:
@@ -11,7 +9,7 @@ title: Customizing Hugo / Blogdown RSS Templates
 ---
 
 
-[Blogdown](https://github.com/rstudio/blogdown) makes it easy to create Hugo blogs or personal websites, and it is becoming more and more popular in the R community. Once the blog is created, people might want to submit their blogs' RSS feeds to [R-bloggers](https://www.r-bloggers.com/). But before that can happen, one must modify the RSS template to meet the [requirements](https://www.r-bloggers.com/add-your-blog/) of RSS submission.<!--more-->
+[Blogdown](https://github.com/rstudio/blogdown) makes it easy to create Hugo blogs or personal websites, and it is becoming more and more popular in the R community. Once the blog is created, people might want to submit their blogs' RSS feeds to [R-bloggers](https://www.r-bloggers.com/). But before that can happen, one must modify the RSS template to meet the [requirements](https://www.r-bloggers.com/add-your-blog/) of RSS submission.
 
 Due to my successful experience in [creating a new Jekyll RSS template](/2018/08/02/rblogger-criteria.html) for my blog, I thought it would be easy to customize the RSS template of Hugo blogs to make it suitable for **R-bloggers**. _I was WRONG_. Hugo has stricter rules for modifying RSS templates[^jekyll], and it took me a while to figure out how to modify the **category/tag RSS templates**.
 

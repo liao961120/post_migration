@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2019/07/06/svg2png.html
 date: '2019-07-06'
 description: '`svg2png`, a web page to batch convert svg images to png images.'
 tags:
@@ -10,7 +8,7 @@ title: Convert SVGs to PNGs with Your Web Browser
 ---
 
 
-I recently found a great [course about web programming](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/) on edX and learned a lot from it (I knew little about back-end web development and were unfamiliar with JavaScript). When I learned that it is possible to [*draw* an SVG with the mouse in the browser](https://video.cs50.net/web/2018/spring/lectures/6?t=1h35m5s), some interesting stuff came up to me <!--more-->  --- *can I download the SVG after I finished drawing?* I found some solutions on the web pretty easily. Meanwhile, another interesting idea came upon --- *can I use the browser to convert local SVG images to PNG images?*
+I recently found a great [course about web programming](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/) on edX and learned a lot from it (I knew little about back-end web development and were unfamiliar with JavaScript). When I learned that it is possible to [*draw* an SVG with the mouse in the browser](https://video.cs50.net/web/2018/spring/lectures/6?t=1h35m5s), some interesting stuff came up to me   --- *can I download the SVG after I finished drawing?* I found some solutions on the web pretty easily. Meanwhile, another interesting idea came upon --- *can I use the browser to convert local SVG images to PNG images?*
 It turns out that this is completely possible with pure JavaScript. I started to realize how mighty web browsers are.
 
 As an exercise to familiarize myself with JavaScript, I implemented this idea in a simple static web page, [svg2png](https://svg2png.yongfu.name), which can convert multiple SVG images to PNG images (with options to set the resolution of the PNGs).

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2017/11/26/why-start-a-blog.html
 date: '2017-11-26'
 tags:
 - experience
@@ -9,7 +7,7 @@ title: Why start a Blog?
 
 
 There are many reasons to start a blog. I was inspired by [this post](http://varianceexplained.org/r/start-blog/) and my interest in psychology.
-<!--more--> 
+ 
 
 ## Starting a Blog for Others
 I have been reluctant to share my ideas with others (partly because I'm shy), but my interest in human evolution led me to realize the importance of learning and cultural transmission in our species[^1]: *A hard-working but not-so-smart student can do much better than a genius who never learn.* 

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2018/01/27/mathjax.html
 date: '2018-01-27'
 mathjax: true
 mathjax_autoNumber: true
@@ -11,7 +9,7 @@ title: MathJax Setup
 ---
 
 
-MathJax is a JavaScript display engine for mathematics that works in all browsers. By including MathJax support on the website, LaTeX mathematical expressions are rendered as pretty mathematical equations. <!--more-->
+MathJax is a JavaScript display engine for mathematics that works in all browsers. By including MathJax support on the website, LaTeX mathematical expressions are rendered as pretty mathematical equations. 
 
 ## Add MathJax Support 
 

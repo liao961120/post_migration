@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2018/07/31/jieba-dict.html
 date: '2018-07-31'
 description: 提供自訂詞庫製作方式以及 jiebaR 自訂詞庫斷詞示範
 highlight: true
@@ -14,7 +12,7 @@ tags:
 title: jieba 自訂詞庫斷詞
 ---
 
-<p>在進行中文 Text Mining 前處理時，必須先經過斷詞處理。社群當中存在相當好的斷詞處理工具，如 <a href="https://github.com/fxsjy/jieba">jieba</a>。但斷詞時常遇到一個問題：<strong>文本中重要的詞彙因為不常見於其它地方而被斷開，像是人物角色名稱</strong>。要處理這個問題，需將自訂詞庫提供給斷詞套件，才不會將重要詞彙斷開。 <!--more--></p>
+<p>在進行中文 Text Mining 前處理時，必須先經過斷詞處理。社群當中存在相當好的斷詞處理工具，如 <a href="https://github.com/fxsjy/jieba">jieba</a>。但斷詞時常遇到一個問題：<strong>文本中重要的詞彙因為不常見於其它地方而被斷開，像是人物角色名稱</strong>。要處理這個問題，需將自訂詞庫提供給斷詞套件，才不會將重要詞彙斷開。 </p>
 <p>這邊將使用 <a href="https://github.com/qinwf/jiebaR">jiebaR</a>，介紹使用自訂詞庫的斷詞方式，並提供自訂詞庫的製作方式。</p>
 <div class="section level2">
 <h2>示範語料</h2>

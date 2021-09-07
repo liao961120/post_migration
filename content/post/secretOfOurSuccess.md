@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2019/08/15/secretOfOurSuccess.html
 date: '2019-08-15'
 tags:
 - Evolution

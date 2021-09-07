@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2019/07/16/struggle-to-understand-people-u-hate.html
 date: '2019-07-16'
 description: ''
 subtitle: ''

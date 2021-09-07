@@ -6,7 +6,8 @@ from pathlib import Path
 src = Path("_posts")
 tgt = Path("content/post")
 pat_to_rm = [
-    re.compile(r'{: width=["\']\d\d%["\']}')
+    re.compile(r'{: width=["\']\d\d%["\']}'),
+    re.compile(r"<!--more-->")
 ]
 pat_assets = re.compile(r"(/assets)/[a-zA-Z0-9_/-]+\.(png|svg|jpg|jpeg|gif)")
 pat_sourceCode = re.compile(r'<pre class="sourceCode [a-zA-Z0-9]+')
@@ -54,7 +55,7 @@ def write_post_yaml(fp):
     fn, _, date = get_post_name_date(fp)
     meta = read_post_yaml(fp)
     meta["date"] = '-'.join(date)
-    meta["aliases"] = [f'/{"/".join(date)}/{fn}.html']
+    # meta["aliases"] = [f'/{"/".join(date)}/{fn}.html']
     return '---\n' + yaml.dump(meta, allow_unicode=True) + '---\n\n'
 
 

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2018/04/20/gsheet_survey.html
 date: '2018-04-20'
 description: 透過結合靜態網頁、DataCamp light、以及 google 試算表，使填寫結果即時回饋成為可能
 mermaid: false
@@ -15,7 +13,7 @@ title: google 表單即時回饋
 pre > code {white-space: pre-wrap;}
 </style>
 
-google 表單大幅降低蒐集問卷資料的難度；此外，表單將回應**自動彙整成試算表**更使分析資料變得非常容易。然而，google 表單缺乏一項重要的功能：**即時將結果回饋給填寫者**<!--more-->[^test]。
+google 表單大幅降低蒐集問卷資料的難度；此外，表單將回應**自動彙整成試算表**更使分析資料變得非常容易。然而，google 表單缺乏一項重要的功能：**即時將結果回饋給填寫者**[^test]。
 
 讓問卷填寫者能馬上知道結果，可以增加其填寫意願，同時也是負責的態度(在回饋不會造成負面影響的前提下)。當然，這在 google 表單本身的限制下無法達成。以下將介紹如何結合 **google 試算表** 以及 **[DataCamp Light](https://github.com/datacamp/datacamp-light)**，讓任何人都能製作出一個在**靜態網頁**上運行的平台，**使填寫者能在此填寫問卷、查詢結果**。
 

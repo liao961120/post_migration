@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2017/12/11/Life_Tables.html
 date: '2017-12-11'
 mathjax: true
 tags:
@@ -14,7 +12,7 @@ title: Constructing Life Tables with R
 
 I have been using the package `dplyr` to handle with data for a while, and I thought I can use it with ease until I was stuck with my homework on **contructing a life table**. I found spreadsheets (either *Excel* or *Google Spreadsheets*) easy for handling this task, but had a hard time dealing with it in R. I think it was due to my unfamiliarity with the built-in functions and insufficient practice in R. So, I wrote this post as a review and practice of my data-wrangling skills in R. 
 
-<!--more-->
+
 
 I will illustrate how I constructed a life table with R, and you'll find out how easy it is (and wonder how could I stumble on it).
 

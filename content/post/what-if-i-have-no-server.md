@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2020/05/26/what-if-i-have-no-server.html
 date: '2020-05-26'
 description: Describe how to integrate Travis-CI, and Google Drive into a web app.
 subtitle: ''

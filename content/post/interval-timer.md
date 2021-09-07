@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2021/06/06/interval-timer.html
 date: '2021-06-06'
 description: An interval training timer that is draggable.
 tags:

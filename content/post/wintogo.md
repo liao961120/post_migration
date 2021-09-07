@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2019/03/02/wintogo.html
 date: '2019-03-02'
 tags:
 - Hardware
@@ -14,7 +12,7 @@ title: 安裝 UEFI 開機功能之 Windows To Go
 
 1. 我真的受不了 Virtualbox 跑 Windows 的速度
 1. 我不想在我的電腦 dual boot Windows
-<!--more-->
+
 
 因此我用了 [Windows To Go](https://zh.wikipedia.org/wiki/Windows_To_Go)，將 Windows 10 安裝於外接硬碟，讓電腦可以透過外接硬碟直接運行 Windows10。
 

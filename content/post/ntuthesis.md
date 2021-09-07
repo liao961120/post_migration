@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2019/03/07/ntuthesis.html
 date: '2019-03-07'
 mathjax: false
 mermaid: false
@@ -13,7 +11,7 @@ title: ntuthesis：用 Markdown 撰寫博碩士論文
 ---
 
 
-去年十月份的研究所甄試，實在找不到合乎主題的文章報告可以附在審查資料。想想自己可以拿來說嘴的大概只剩 R Markdown，於是寫了[一篇 (硬是扯上語言學的) 文章](https://liao961120.github.io/ling-rmd)交了上去。<!--more-->為了怕被面試老師問：「你在文章中說的可信嗎？文章中哪裡可看出你的研究能力？」便在文章中引用自己撰寫的[套件](https://liao961120.github.io/linguisticsdown)[^linguisticsdown]。由於還是害怕文章太過空泛，又將文章中的部份想法 -- R Markdown 模板，實作出來以備不時之需，[`ntuthesis`](https://liao961120.github.io/ntuthesis) 因而誕生了。結果 ... 面試時，老師們根本沒有問到有關 R Markdown 的問題。
+去年十月份的研究所甄試，實在找不到合乎主題的文章報告可以附在審查資料。想想自己可以拿來說嘴的大概只剩 R Markdown，於是寫了[一篇 (硬是扯上語言學的) 文章](https://liao961120.github.io/ling-rmd)交了上去。為了怕被面試老師問：「你在文章中說的可信嗎？文章中哪裡可看出你的研究能力？」便在文章中引用自己撰寫的[套件](https://liao961120.github.io/linguisticsdown)[^linguisticsdown]。由於還是害怕文章太過空泛，又將文章中的部份想法 -- R Markdown 模板，實作出來以備不時之需，[`ntuthesis`](https://liao961120.github.io/ntuthesis) 因而誕生了。結果 ... 面試時，老師們根本沒有問到有關 R Markdown 的問題。
 
 
 [^linguisticsdown]: `linguisticsdown` 當時僅有 3 個函數，而且是在兩天內寫完然後提交到 CRAN。雖然簡陋，但我覺得這套件是目前我所[製造出來的一堆玩具](/#projects)中最有用的。

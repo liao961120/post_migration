@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2018/02/24/new_md_features.html
 date: '2018-02-24'
 tags:
 - markdown
@@ -11,7 +9,7 @@ title: Some New Features of TeXt Theme
 
 
 I started customizing my blog template soon after I forked it from [kitian616](https://github.com/kitian616/jekyll-TeXt-theme/). The downside of customizing is that once started, there's no going back. 
-<!--more-->
+
 
 I saw some new features added to the [TeXt theme](https://tianqi.name/jekyll-TeXt-theme/) recently, some of which are quite appealing to me. Since I started custimizing my blog and since I'm a layman of web page design, I have to figure out how to implement these features by myself. 
 

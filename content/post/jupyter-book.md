@@ -1,6 +1,4 @@
 ---
-aliases:
-- /2019/05/11/jupyter-book.html
 date: '2019-05-11'
 description: Create a book from multiple Jupyter notebooks with Jupyter Book
 subtitle: Jupyter Book 簡介
