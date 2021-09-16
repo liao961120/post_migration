@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2020/02/22/leipzigVue.html
 date: '2020-02-22'
 description: ''
 subtitle: ''

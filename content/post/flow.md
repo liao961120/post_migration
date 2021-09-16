@@ -1,12 +1,14 @@
 ---
+aliases:
+- /2020/06/27/flow.html
 date: '2020-06-27'
 description: '心流 (Flow: The Psychology of Optimal Experience) 的閱讀心得；自我反思'
-subtitle: ''
+subtitle: 功利社會下的自我反思
 tags:
 - Experience
 - Psychology
 - 中文
-title: 《心流》讀書心得：功利社會下的自我反思
+title: 《心流》讀書心得
 ---
 
 

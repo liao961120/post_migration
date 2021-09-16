@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2019/07/06/svg2png.html
 date: '2019-07-06'
 description: '`svg2png`, a web page to batch convert svg images to png images.'
 tags:

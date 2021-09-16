@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2020/01/30/undergrad.html
 date: '2020-01-30'
 subtitle: ''
 tags:

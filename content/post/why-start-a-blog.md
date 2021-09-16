@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2017/11/26/why-start-a-blog.html
 date: '2017-11-26'
 tags:
 - experience

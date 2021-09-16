@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2019/01/04/trivial-skills.html
 date: '2019-01-04'
 description: ''
 tags:

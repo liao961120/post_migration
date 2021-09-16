@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2020/04/23/gloss-search.html
 date: '2020-04-23'
 description: ''
 subtitle: ''

@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2018/01/31/RlearningPath.html
 date: '2018-01-31'
 redirect_from:
 - /2018/01/31/RlearningPath/

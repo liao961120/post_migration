@@ -1,6 +1,6 @@
 ---
-title: "What if I Have No Server: Utilizing Travis-CI for Data Update in a Web App"
-subtitle: ""
+title: "What if I Have No Server?"
+subtitle: "Utilizing Travis-CI for Data Update in a Web App"
 description: "Describe how to integrate Travis-CI, and Google Drive into a web app."
 tags: ['Travis-CI', 'JavaScript', 'vue']
 ---

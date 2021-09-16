@@ -1,12 +1,14 @@
 ---
+aliases:
+- /2020/05/26/what-if-i-have-no-server.html
 date: '2020-05-26'
 description: Describe how to integrate Travis-CI, and Google Drive into a web app.
-subtitle: ''
+subtitle: Utilizing Travis-CI for Data Update in a Web App
 tags:
 - Travis-CI
 - JavaScript
 - vue
-title: 'What if I Have No Server: Utilizing Travis-CI for Data Update in a Web App'
+title: What if I Have No Server?
 ---
 
 

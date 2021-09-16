@@ -1,6 +1,8 @@
 ---
+aliases:
+- /2019/03/07/ntuthesis.html
 date: '2019-03-07'
-mathjax: false
+katex: false
 mermaid: false
 tags:
 - markdown

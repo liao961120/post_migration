@@ -1,5 +1,6 @@
 ---
-title: "文章分享：〈核心價值 (value) ：迷失方向時的指南針〉"
+title: "文章分享"
+subtitle: "〈核心價值 (value) ：迷失方向時的指南針〉"
 description: "有心人事 〈核心價值 (value) ：迷失方向時的指南針〉 文章讀後心得分享"
 tags: ['Experience', 'Psychology', '中文']
 ---

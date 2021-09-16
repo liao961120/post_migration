@@ -1,17 +1,21 @@
 ---
+aliases:
+- /2018/07/28/quanteda-tutorial.html
 date: '2018-07-28'
 description: 因為中文的特性，使得中文 Text Mining 的前處理較為複雜。此文以 R, quanteda, jiebaR 進行部落格文章的前處理，提供一套中文文本前處理的架構。
 highlight: true
-mathjax: false
+katex: false
 mathjax2: false
 mermaid: true
+subtitle: 中文、R 與 quanteda
 tags:
 - Text Mining
 - R
 - bash
 - 中文
-title: Text Mining 前處理：中文、R 與 quanteda
+title: Text Mining 前處理
 ---
+
 
 <p>中文 Text Mining 的前處理比起其它以拉丁字母為主的文本困難許多，參考資源也相對龐雜不全。 這裡以較晚近出現的<a href="https://quanteda.io/"><code>quanteda</code></a>套件為根據，依其需求進行中文文本前處理。</p>
 <p>選擇<code>quanteda</code>而非其它較流行的套件如<code>tm</code>的原因是因為其<a href="https://github.com/quanteda/stopwords">多語言支持</a>較佳，譬如其內建的 tokenizer 能<a href="https://koheiw.net/?p=339">直接對中文進行斷詞</a>。然而，由於 <a href="https://github.com/fxsjy/jieba"><code>jieba</code></a>的社群資源以及斷詞效果較佳，此文還是以<a href="https://github.com/qinwf/jiebaR"><code>jiebaR</code></a>進行斷詞。</p>

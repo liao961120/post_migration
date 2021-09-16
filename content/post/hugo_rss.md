@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2018/12/13/hugo_rss.html
 date: '2018-12-13'
 description: Customizing Hugo RSS Template for R-bloggers
 tags:

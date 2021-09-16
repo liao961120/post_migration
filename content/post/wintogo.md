@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2019/03/02/wintogo.html
 date: '2019-03-02'
 tags:
 - Hardware

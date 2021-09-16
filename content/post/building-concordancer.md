@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2020/03/20/building-concordancer.html
 date: '2020-03-20'
 description: ''
 subtitle: ''

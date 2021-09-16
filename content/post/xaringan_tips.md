@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2019/04/29/xaringan_tips.html
 date: '2019-04-29'
 description: Tips to Reduce the Complexity of Slide Making with Xaringan
 tags:

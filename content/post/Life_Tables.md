@@ -1,6 +1,8 @@
 ---
+aliases:
+- /2017/12/11/Life_Tables.html
 date: '2017-12-11'
-mathjax: true
+katex: true
 tags:
 - R
 - notes

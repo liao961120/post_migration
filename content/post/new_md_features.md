@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2018/02/24/new_md_features.html
 date: '2018-02-24'
 tags:
 - markdown

@@ -55,7 +55,10 @@ def write_post_yaml(fp):
     fn, _, date = get_post_name_date(fp)
     meta = read_post_yaml(fp)
     meta["date"] = '-'.join(date)
-    # meta["aliases"] = [f'/{"/".join(date)}/{fn}.html']
+    meta["aliases"] = [f'/{"/".join(date)}/{fn}.html']
+    if "mathjax" in meta:
+        meta["katex"] = meta["mathjax"]
+        del meta["mathjax"]
     return '---\n' + yaml.dump(meta, allow_unicode=True) + '---\n\n'
 
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2019/03/10/include_graphics2.html
 date: '2019-03-10'
 tags:
 - R Markdown

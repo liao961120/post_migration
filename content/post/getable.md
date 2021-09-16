@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2020/09/09/getable.html
 date: '2020-09-09'
 description: getable lets the user insert dynamic HTML tables in R Markdown by providing
   URLs to the data of the tables

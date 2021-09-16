@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2021/06/03/my-r-course.html
 date: '2021-06-03'
 description: 給程式初學者的 R 語言線上課程
 tags:

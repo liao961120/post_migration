@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2019/01/30/recreate-rbloggers.html
 date: '2019-01-30'
 tags:
 - Travis-CI

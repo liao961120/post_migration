@@ -1,6 +1,8 @@
 ---
+aliases:
+- /2018/01/27/mathjax.html
 date: '2018-01-27'
-mathjax: true
+katex: true
 mathjax_autoNumber: true
 tags:
 - Web Page
